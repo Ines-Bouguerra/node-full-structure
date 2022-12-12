@@ -1,0 +1,25 @@
+2022-12-12 15:34:53 info: the server started listining on port port 3000
+2022-12-12 15:35:45 info: stopping the server
+2022-12-12 15:36:15 info: the server started listining on port port 3000
+2022-12-12 15:37:51 info: stopping the server
+2022-12-12 15:37:55 info: the server started listining on port port 3000
+2022-12-12 15:37:59 info: a request has been made with the following uuid [d82df5e4-f0bd-446a-a64e-35e172329ddc] / Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 {}
+2022-12-12 15:37:59 error: the url you are trying to reach is not hosted on our server
+2022-12-12 15:37:59 info: a request has been made with the following uuid [0a67e900-b42d-47c9-a81f-c0fb68e280ab] /favicon.ico Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 {}
+2022-12-12 15:37:59 error: the url you are trying to reach is not hosted on our server
+2022-12-12 15:38:26 info: a request has been made with the following uuid [6a56b408-a20d-41bc-9a41-a26c80da976d] /api/v1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 {}
+2022-12-12 15:38:26 error: the url you are trying to reach is not hosted on our server
+2022-12-12 15:38:53 info: a request has been made with the following uuid [a3721409-35e0-4390-87d6-3f452164b461] /api/v1/1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 {}
+2022-12-12 15:38:53 error: the url you are trying to reach is not hosted on our server
+2022-12-12 15:39:05 info: a request has been made with the following uuid [d349c943-9e59-42d7-afb6-18d9a250fbfd] /api/v1/users Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 {}
+2022-12-12 15:39:05 error: the url you are trying to reach is not hosted on our server
+2022-12-12 15:39:20 info: a request has been made with the following uuid [61f7f98f-65fe-4bdd-ae24-753e161052c1] /api/v1/users/1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 {}
+2022-12-12 15:39:20 error: error ,Error during processing request: http://localhost:3000/api/v1/users/1 details message: Not Authorized to access this resource!
+2022-12-12 15:39:29 info: a request has been made with the following uuid [7b269e0e-4ea9-4fe8-972a-9e5efbb5e3f3] /api/v1/swagger Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 {}
+2022-12-12 15:39:29 error: the url you are trying to reach is not hosted on our server
+2022-12-12 15:40:03 info: a request has been made with the following uuid [268b5a96-164e-466e-8ac3-1d020e45658e] /api/v1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 {}
+2022-12-12 15:40:03 error: the url you are trying to reach is not hosted on our server
+2022-12-12 16:02:33 info: stopping the server
+2022-12-12 16:02:36 info: the server started listining on port port 3000
+2022-12-12 16:20:19 info: stopping the server
+2022-12-12 16:20:23 info: the server started listining on port port 3000

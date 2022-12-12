@@ -2,7 +2,8 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const compression = require('compression');
-const uuid = require('uuid');
+const uuid = require('uuid').v4
+
 const config = require('../config/appconfig');
 const Logger = require('../utils/logger.js');
 
