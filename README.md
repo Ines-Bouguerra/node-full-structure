@@ -22,9 +22,9 @@ In this repository, I don't aim to provide any optimal solution as each project 
  `git clone https://github.com/AlaaMezian/NodeJs-backend-structure.git`
  - Install node version or use nvm to downgrade your node version.
  - Delete the existing `package.lock.json` and run `npm install`
- - Then you create a mysql database named steg
+ - Then you create a mysql database named node-full-structure
  - Run the migration using the following command:
  `npx sequelize-cli db:migrate`
  - Lastly, you run `npm start`
 
-Future improvements utilize component based structure.\
+Future improvements utilize component based structure.

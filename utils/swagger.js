@@ -38,11 +38,11 @@ getFullPathes(filesName);
 const options = {
 	swaggerDefinition: {
 		info: {
-			title: 'STEG',
+			title: 'node-full-structure',
 			version: '1.0.0',
-			description: 'STEG System,REST API with Swagger doc',
+			description: 'node-full-structure System,REST API with Swagger doc',
 			contact: {
-				email: 'ines.bouguerra@medianet.com.tn',
+				email: 'ines.bouguerra.22@gmail.com',
 			},
 		},
 		tags: [

@@ -6,12 +6,12 @@ require('dotenv').config();
 module.exports = {
 	app: {
 		port: process.env.DEV_APP_PORT || 3000,
-		appName: process.env.APP_NAME || 'steg',
+		appName: process.env.APP_NAME || 'node-full-structure',
 		env: process.env.NODE_ENV || 'development',
 	},
 	db: {
 		port: process.env.DB_PORT || 3306,
-		database: process.env.DB_NAME || 'steg',
+		database: process.env.DB_NAME || 'node-full-structure',
 		password: process.env.DB_PASS || 'password',
 		username: process.env.DB_USER || 'mysql',
 		host: process.env.DB_HOST || '127.0.0.1',
@@ -19,7 +19,7 @@ module.exports = {
 		logging: true,
 	},
 	winiston: {
-		logpath: '/stegLogs/logs/',
+		logpath: '/node-full-structureLogs/logs/',
 	},
 	auth: {
 		jwt_secret: process.env.JWT_SECRET,

@@ -23,10 +23,10 @@ router.post('/send', (req, res) => {
 			email.sendEmail(
 				callback,
 				config.sendgrid.from_email,
-				['ines.bouguerra@medianet.com.tn'],
+				['ines.bouguerra.22@gmail.com'],
 				' iLearn Microlearning ',
 				`please consider the following as your password${randomString}`,
-				`<p style="font-size: 32px;">Welcome to STEG</p>  please consider the following as your password: ${randomString}`,
+				`<p style="font-size: 32px;">Welcome to node-full-structure</p>  please consider the following as your password: ${randomString}`,
 			);
 		},
 	], (err, results) => {
